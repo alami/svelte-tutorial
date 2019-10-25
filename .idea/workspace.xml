@@ -4,6 +4,7 @@
     <list default="true" id="72231d39-58eb-436f-adab-003c71578556" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fetch.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fetch.svelte" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571988715807</updated>
       <workItem from="1571988716937" duration="738000" />
-      <workItem from="1571989468622" duration="6445000" />
+      <workItem from="1571989468622" duration="8456000" />
     </task>
     <servers />
   </component>

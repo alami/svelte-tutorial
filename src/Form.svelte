@@ -1,7 +1,7 @@
 <script>
-    function handleSubmit(event) {
-        // do stuff
-    }
+    export let handleSubmit = function(event) {
+        // default prop
+    };
 </script>
 <form on:submit|preventDefault={handleSubmit}>
     <label for="search">Search:</label>
