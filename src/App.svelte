@@ -5,15 +5,12 @@
 		url: "https://jsonplaceholder.typicode.com/todos",
 		title: "A list of todos"
 	};
+	import Form from "./Form.svelte";
+
 </script>
+<h1>Real svelte {name}!</h1>
+<Form />
 
-<style>
-	h1 {
-		color: purple;
-	}
-</style>
-
-<h1>Hello {name}!</h1>
 <Fetch
 		{...props}
 		let:data
