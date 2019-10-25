@@ -9,11 +9,4 @@
         data = json;
     });
 </script>
-<h1>{title}</h1>
-<ul>
-    {#each data as link}
-        <li>
-            <a href={link.url}>{link.title}</a>
-        </li>
-    {/each}
-</ul>
+<slot {data} {title} />
